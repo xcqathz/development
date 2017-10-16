@@ -1,0 +1,4 @@
+Master节点包括Namenode, SecondName/Standby, application master
+硬件配置：16CPU*4核，96G内存。
+Slave节点主要是TaskTracker和DataNode，
+硬件配置存在一定的差别：8CPU*4核-16CPU*4核，16G-24G内存
